@@ -1,14 +1,16 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: André Yoshiaki Kashiwabara
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+     André é professor na UTFPR Cornélio Procópio.  Atua com Bioinformática e Biologia Computacional. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username:  ayoshiaki
+github_username:  ayoshiaki
+url:  http://lattes.cnpq.br/3194328548975437
+highlighter: pygments
+github: [Repository metadata]
+safe: true
+lsi: false
 
 # Build settings
 markdown: kramdown
+
