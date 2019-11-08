@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username:  ayoshiaki
 github_username:  ayoshiaki
 url:  http://lattes.cnpq.br/3194328548975437
-highlighter: pygments
+highlighter: rouge
 github: [Repository metadata]
 safe: true
 lsi: false
